@@ -2,7 +2,7 @@ I'm an [HSP](https://www.psychologytoday.com/us/basics/highly-sensitive-person) 
 
 All content by me on GitHub is my own and does not necessarily represent the views of my employer or any group I am a member of.
 
-![jdrch's github stats](https://github-readme-stats.vercel.app/api?username=jdrch&show_icons=true&theme=react)
+![jdrch's github stats](https://github-readme-stats.vercel.app/api?username=jdrch&show_icons=true&theme=default)
 
 Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics).
 
