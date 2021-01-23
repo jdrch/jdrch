@@ -9,7 +9,9 @@ Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics).
 - 🔭 I’m currently working on my [Hardware](https://github.com/jdrch/Hardware) setup.
 
 - 🤔 I’m looking for help with Android and Windows app development
-  - Test
+  - App development on
+    - Android
+    - Windows
   
 - 💬 Ask me about ...
 
