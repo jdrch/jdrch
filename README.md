@@ -17,6 +17,7 @@ Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics).
     - OpenIndiana 
 - 💬 Ask me about
   - getting started with
+    - Windows
     - FreeBSD
     - Debian
     - backup
