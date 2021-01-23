@@ -7,7 +7,6 @@ All content by me on GitHub is my own and does not necessarily represent the vie
 Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics).
 
 - 🔭 I’m currently working on my [Hardware](https://github.com/jdrch/Hardware) setup.
-
 - 🤔 I’m looking for help with
   - app development on
     - Android
@@ -15,8 +14,7 @@ Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics).
   - understanding FreeBSD service creation and configuration
   - setting up email notifications in 
     - Debian
-    - OpenIndiana
-  
+    - OpenIndiana 
 - 💬 Ask me about
   - getting started with
     - FreeBSD
@@ -26,15 +24,15 @@ Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics).
     - ReFS
     - Btrfs
     - streaming
-
+  - how to
+    - run the same Windows and Linux installations for years without needing to reinstall
+    - drive fast without getting into (serious) trouble
 - 📫 How to reach me (in descending order. Please introduce yourself & say you found me from here so I can contextualize your message):
   - [Twitter](https://twitter.com/jdrch)
   - [Reddit](https://www.reddit.com/user/jdrch)
   - [Telegram](https://t.me/jdrch)
   - @jdrch on Gitter.im
-
 - 😄 Pronouns: He/Him/His
-
 - ⚡ Fun fact: I have never even smoked a cigarette
 
 
