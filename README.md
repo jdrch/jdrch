@@ -20,17 +20,17 @@ All content by me on GitHub is my own and does not necessarily represent the vie
 - 💬 Ask me about
   - Finite Element Analysis (FEA)
   - Computational Fluid Dynamics (CFD)
-  - getting started with
-    - Windows
-    - FreeBSD
-    - Debian
-    - backup
-    - ZFS
-    - ReFS
-    - Btrfs
-    - streaming
+  - Windows
+  - FreeBSD
+  - Linux
+  - backup
+  - Android
+  - ZFS
+  - ReFS
+  - Btrfs
+  - streaming
   - how to
-    - run the same Windows and Linux installations for years without needing to reinstall
+    - run the same OS installations for years without needing to reinstall
     - drive fast without getting into (serious) trouble
 - 📫 How to reach me (in descending order. Please introduce yourself & say you found me from here so I can contextualize your message):
   - [Twitter](https://twitter.com/jdrch)
