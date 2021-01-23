@@ -10,9 +10,8 @@ All content by me on GitHub is my own and does not necessarily represent the vie
 
 - 🔭 I’m currently working on my [Hardware](https://github.com/jdrch/Hardware) setup.
 - 🤔 I’m looking for help with
-  - app development on
-    - Android
-    - Windows
+  - developing a [metric time (kiloseconds) app](https://github.com/jdrch/sichron) for Windows
+  - writing a [Bash script](https://github.com/jdrch/ComicStrppr) that automates custom image extracton from comic book files
   - understanding FreeBSD service creation and configuration
   - setting up email notifications in 
     - Debian
