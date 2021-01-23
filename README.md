@@ -8,18 +8,34 @@ Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics).
 
 - 🔭 I’m currently working on my [Hardware](https://github.com/jdrch/Hardware) setup.
 
-- 🤔 I’m looking for help with Android and Windows app development
-  - App development on
+- 🤔 I’m looking for help with
+  - app development on
     - Android
     - Windows
+  - understanding FreeBSD service creation and configuration
+  - setting up email notifications in 
+    - Debian
+    - OpenIndiana
   
-- 💬 Ask me about ...
+- 💬 Ask me about
+  - getting started with
+    - FreeBSD
+    - Debian
+    - backup
+    - ZFS
+    - ReFS
+    - Btrfs
+    - streaming
 
-- 📫 How to reach me: ...
+- 📫 How to reach me (in descending order. Please introduce yourself & say you found me from here so I can contextualize your message):
+  - [Twitter](https://twitter.com/jdrch)
+  - [Reddit](https://www.reddit.com/user/jdrch)
+  - [Telegram](https://t.me/jdrch)
+  - @jdrch on Gitter.im
 
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him/His
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have never even smoked a cigarette
 
 
 <!--
