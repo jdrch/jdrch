@@ -16,6 +16,8 @@ Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics).
     - Debian
     - OpenIndiana 
 - 💬 Ask me about
+  - Finite Element Analysis (FEA)
+  - Computational Fluid Dynamics (CFD)
   - getting started with
     - Windows
     - FreeBSD
