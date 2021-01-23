@@ -6,10 +6,11 @@ All content by me on GitHub is my own and does not necessarily represent the vie
 
 Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics).
 
-- 🔭 I’m currently working on my Hardware repo.
+- 🔭 I’m currently working on my [Hardware](https://github.com/jdrch/Hardware) setup.
 
 - 🤔 I’m looking for help with Android and Windows app development
-
+  - Test
+  
 - 💬 Ask me about ...
 
 - 📫 How to reach me: ...
