@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![jdrch's github stats](https://github-readme-stats.vercel.app/api?username=jdrch&show_icons=true&theme=radical)
 
 <!--
