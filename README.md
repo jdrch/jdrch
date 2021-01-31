@@ -39,6 +39,8 @@ All content by me on GitHub is my own and does not necessarily represent the vie
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have never even smoked a cigarette
 
+[![jdrch's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/jdrch)
+
 ----
 
 Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics).
