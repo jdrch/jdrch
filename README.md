@@ -41,7 +41,7 @@ All content by me on GitHub is my own and does not necessarily represent the vie
 
 ----
 
-Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics). He/Him/His. My profile pic may be androgynous, but I am not 
+Profile pic is [Malekith](https://www.marvel.com/characters/malekith/in-comics). He/Him/His. My profile pic may be androgynous, but I am not 🤣.
 <!--
 **jdrch/jdrch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
