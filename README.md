@@ -12,15 +12,12 @@ All content by me on GitHub is my own and does not necessarily represent the vie
 - 🤔 I’m looking for help with
   - developing a [metric time (kiloseconds) app](https://github.com/jdrch/sichron) for Windows
   - writing a [Bash script](https://github.com/jdrch/ComicStrppr) that automates custom image extracton from comic book files
-  - understanding FreeBSD service creation and configuration
-  - setting up email notifications in 
-    - Debian
-    - OpenIndiana 
+  - ~~understanding FreeBSD service creation and configuration~~
 - 💬 Ask me about
   - Finite Element Analysis (FEA)
   - Computational Fluid Dynamics (CFD)
   - Windows
-  - FreeBSD
+  - ~~FreeBSD~~
   - Linux
   - backup
   - Android
