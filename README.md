@@ -17,7 +17,8 @@ All content by me on GitHub is my own and does not necessarily represent the vie
   - Finite Element Analysis (FEA)
   - Computational Fluid Dynamics (CFD)
   - Windows
-  - ~~FreeBSD~~
+  - FreeBSD
+  - TrueNAS
   - Linux
   - backup
   - Android
