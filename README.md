@@ -30,7 +30,7 @@ All content by me on GitHub is my own and does not necessarily represent the vie
     - run the same OS installations for years without needing to reinstall
     - drive fast without getting into (serious) trouble
 - 📫 How to reach me (Please introduce yourself & say you found me from here so I can contextualize your message):
-  - [Bluesky](https://bsky.app/profile/jdrch.bsky.social)
+  - [Bluesky](https://bsky.app/profile/jdrch.github.io)
   - [Mastodon](https://mastodon.social/@jdrch)
   - [Reddit](https://www.reddit.com/user/jdrch)
   - [Telegram](https://t.me/jdrch)
