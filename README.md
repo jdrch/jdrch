@@ -35,7 +35,7 @@ All content by me on GitHub is my own and does not necessarily represent the vie
   - [Reddit](https://www.reddit.com/user/jdrch)
   - [Telegram](https://t.me/jdrch)
   - [Threads](https://www.threads.net/@jdrch)
-  - @jdrch on Gitter.im
+  - ~~@jdrch on Gitter.im~~
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have never broken a bone
 
